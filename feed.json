@@ -2,36 +2,144 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "اعشاب",
     "description": "",
-    "home_page_url": "https://adler2020.github.io/eee",
-    "feed_url": "https://adler2020.github.io/eee/feed.json",
+    "home_page_url": "https://5herb.com",
+    "feed_url": "https://5herb.com/feed.json",
     "user_comment": "",
-    "icon": "https://adler2020.github.io/eee/media/website/What-is-an-Ontology-2-45-screenshot.png",
     "author": {
         "name": "الخبير"
     },
     "items": [
         {
-            "id": "https://adler2020.github.io/eee/lthlth.html",
-            "url": "https://adler2020.github.io/eee/lthlth.html",
+            "id": "https://5herb.com/hello-world.html",
+            "url": "https://5herb.com/hello-world.html",
+            "title": "Hello world!",
+            "summary": " Welcome to WordPress. This is your first post. Edit or delete it, then start writing! [covid-widget type=\"country-chart\" country=\"Germany\" charttype=\"bar\"&nbsp;] [h5p id=\"1\"] [nutrition protein=\"45\" carbs=\"34\" fat=\"15\" calories=\"540\" coco=\"100\"] [dflip id=\"19\" ][/dflip] [3d-flip-book mode=\"fullscreen\" id=\"5\"][/3d-flip-book] ",
+            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>[covid-widget type=\"country-chart\" country=\"Germany\" charttype=\"bar\"&nbsp;]</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><code>[h5p id=\"1\"]</code></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>[nutrition protein=\"45\" carbs=\"34\" fat=\"15\" calories=\"540\" coco=\"100\"]</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>[dflip id=\"19\" ][/dflip] </p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p> [3d-flip-book mode=\"fullscreen\" id=\"5\"][/3d-flip-book]</p>\n<p><!-- /wp:paragraph --></p>\n",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢١-٠١-٢٠T١٩:٣٧:٥٩+٠١:٠٠",
+            "date_modified": "٢٠٢١-٠٢-١٦T١٨:٢٦:٣٣+٠١:٠٠"
+        },
+        {
+            "id": "https://5herb.com/sample-page.html",
+            "url": "https://5herb.com/sample-page.html",
+            "title": "Sample Page",
+            "summary": " This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It&hellip;",
+            "content_html": "<p><!-- wp:paragraph --></p>\n<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:quote --></p>\n<blockquote class=wp-block-quote><p>\n<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>\n</blockquote>\n<p><!-- /wp:quote --></p>\n<p><!-- wp:paragraph --></p>\n<p>...or something like this:</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:quote --></p>\n<blockquote class=wp-block-quote><p>\n<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>\n</blockquote>\n<p><!-- /wp:quote --></p>\n<p><!-- wp:paragraph --></p>\n<p>As a new WordPress user, you should go to <a href=\"http:/wordpress/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n<p><!-- /wp:paragraph --></p>\n",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢١-٠١-٢٠T١٩:٣٧:٥٩+٠١:٠٠",
+            "date_modified": "٢٠٢١-٠٢-١٦T١٨:٢٦:٣٣+٠١:٠٠"
+        },
+        {
+            "id": "https://5herb.com/lql-2.html",
+            "url": "https://5herb.com/lql-2.html",
+            "title": "القال 2 ",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢٠-١٠-١٢T٢١:٠٧:١١+٠٢:٠٠",
+            "date_modified": "٢٠٢٠-١٠-١٢T٢١:٠٧:١١+٠٢:٠٠"
+        },
+        {
+            "id": "https://5herb.com/lthmn.html",
+            "url": "https://5herb.com/lthmn.html",
+            "title": "الثامن",
+            "image": "https://5herb.com/media/posts/8/91594b5bf971f4fc69c9f63ea6ae43356706.jpg",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢٠-١٠-١٢T٢٠:١٦:١٠+٠٢:٠٠",
+            "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٦:٢٨+٠٢:٠٠"
+        },
+        {
+            "id": "https://5herb.com/ltsaa.html",
+            "url": "https://5herb.com/ltsaa.html",
+            "title": "التاسع ",
+            "image": "https://5herb.com/media/posts/7/328109f5d87eddc1e3366d3e2091b1499606.jpg",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢٠-١٠-١٢T٢٠:١٦:٠٢+٠٢:٠٠",
+            "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٦:٠٢+٠٢:٠٠"
+        },
+        {
+            "id": "https://5herb.com/lsbaa.html",
+            "url": "https://5herb.com/lsbaa.html",
+            "title": "السابع ",
+            "image": "https://5herb.com/media/posts/6/90235282_143636120480143_5089293532863135744_n.jpg",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢٠-١٠-١٢T٢٠:١٥:٣٦+٠٢:٠٠",
+            "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٥:٣٦+٠٢:٠٠"
+        },
+        {
+            "id": "https://5herb.com/lsds.html",
+            "url": "https://5herb.com/lsds.html",
+            "title": "السادس",
+            "image": "https://5herb.com/media/posts/5/121014482_178891470387395_5781048662249517365_n.jpg",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+            ],
+            "date_published": "٢٠٢٠-١٠-١٢T٢٠:١٤:٣٨+٠٢:٠٠",
+            "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٤:٥١+٠٢:٠٠"
+        },
+        {
+            "id": "https://5herb.com/lrbaa.html",
+            "url": "https://5herb.com/lrbaa.html",
+            "title": "الرابع ",
+            "summary": "الرابع 4444 ",
+            "content_html": "<p>الرابع </p>\n<p>4444 </p>",
+            "image": "https://5herb.com/media/posts/4/120218478_852682688469965_2996944709878838576_n.jpg",
+            "author": {
+                "name": "الخبير"
+            },
+            "tags": [
+                   "تونس",
+                   "احمر"
+            ],
+            "date_published": "٢٠٢٠-١٠-٠١T٢٣:٥١:٥٠+٠٢:٠٠",
+            "date_modified": "٢٠٢٠-١٠-٠٨T٠٠:٤٠:٢٣+٠٢:٠٠"
+        },
+        {
+            "id": "https://5herb.com/lthlth.html",
+            "url": "https://5herb.com/lthlth.html",
             "title": "الثالث ",
             "summary": " المقال الثالث هو الذي بعد الثاني&nbsp; ",
             "content_html": "\n  <p>\n    المقال الثالث هو الذي بعد الثاني&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://adler2020.github.io/eee/media/posts/3/119942528_174475137495695_3493048670000247241_n.jpg",
+            "image": "https://5herb.com/media/posts/3/119942528_174475137495695_3493048670000247241_n.jpg",
             "author": {
                 "name": "الخبير"
             },
             "tags": [
             ],
             "date_published": "٢٠٢٠-٠٩-٢٤T١٤:٠٠:٢٤+٠٢:٠٠",
-            "date_modified": "٢٠٢٠-٠٩-٢٥T٠٠:٣٨:٤٦+٠٢:٠٠"
+            "date_modified": "٢٠٢٠-١٠-٠٩T٠٠:٤١:٣١+٠٢:٠٠"
         },
         {
-            "id": "https://adler2020.github.io/eee/aashb-2.html",
-            "url": "https://adler2020.github.io/eee/aashb-2.html",
+            "id": "https://5herb.com/aashb-2.html",
+            "url": "https://5herb.com/aashb-2.html",
             "title": "عربي",
             "summary": " الحصان العربي الاصيل&nbsp; ",
             "content_html": "\n  <p>\n    الحصان العربي الاصيل&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://adler2020.github.io/eee/media/posts/2/117065341_2570569953196107_3033400045894227132_o.jpg",
+            "image": "https://5herb.com/media/posts/2/117065341_2570569953196107_3033400045894227132_o.jpg",
             "author": {
                 "name": "الخبير"
             },
@@ -40,22 +148,6 @@
             ],
             "date_published": "٢٠٢٠-٠٩-١٨T٠٥:٢٧:١٥+٠٢:٠٠",
             "date_modified": "٢٠٢٠-٠٩-٢٥T٠٠:٣٩:٢٦+٠٢:٠٠"
-        },
-        {
-            "id": "https://adler2020.github.io/eee/lynswn.html",
-            "url": "https://adler2020.github.io/eee/lynswn.html",
-            "title": "القال الاول ",
-            "summary": "Caption نبات عشبي ينتمي الى تفس العائلة التي ينتمي لها الجرز والكرفس&hellip;",
-            "content_html": "<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://adler2020.github.io/eee/media/posts/1/CORONAVIRUS-UNAUFHALTSAM_-Erster-Todesfall-ausserhalb-Chinas-Angst-um-Wirtschaft-0-11-screenshot.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://adler2020.github.io/eee/media/posts/1/responsive/CORONAVIRUS-UNAUFHALTSAM_-Erster-Todesfall-ausserhalb-Chinas-Angst-um-Wirtschaft-0-11-screenshot-xs.png 300w ,https://adler2020.github.io/eee/media/posts/1/responsive/CORONAVIRUS-UNAUFHALTSAM_-Erster-Todesfall-ausserhalb-Chinas-Angst-um-Wirtschaft-0-11-screenshot-sm.png 480w ,https://adler2020.github.io/eee/media/posts/1/responsive/CORONAVIRUS-UNAUFHALTSAM_-Erster-Todesfall-ausserhalb-Chinas-Angst-um-Wirtschaft-0-11-screenshot-md.png 768w ,https://adler2020.github.io/eee/media/posts/1/responsive/CORONAVIRUS-UNAUFHALTSAM_-Erster-Todesfall-ausserhalb-Chinas-Angst-um-Wirtschaft-0-11-screenshot-lg.png 1024w\"  alt=\"\" width=\"100\" height=\"50\">\n<figcaption >Caption</figcaption>\n</figure>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://adler2020.github.io/eee/media/posts/1/lnaanaa.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://adler2020.github.io/eee/media/posts/1/responsive/lnaanaa-xs.jpg 300w ,https://adler2020.github.io/eee/media/posts/1/responsive/lnaanaa-sm.jpg 480w ,https://adler2020.github.io/eee/media/posts/1/responsive/lnaanaa-md.jpg 768w ,https://adler2020.github.io/eee/media/posts/1/responsive/lnaanaa-lg.jpg 1024w\"  alt=\"\"></figure>فوائد اليانسون</p>\n<h1 class=\"align-right\">ما هو اليانسون</h1>\n<blockquote>\n<p class=\"align-right\">نبات عشبي ينتمي الى تفس العائلة التي ينتمي لها الجرز والكرفس والبقدونس   ويمكن لتبته اليانسون ان تنمو لتصل لارتفاع المتر الواحد والنبات حولي اي يعيش سنة واحدة وتعرف بعدة أسماء فيعرف باسم ينكون وكمون حلو وفي المغرب يسمونه الحبة الحلوة.</p>\n<p class=\"align-right\">الموطن الأصلي لليانسون غير معروق بدقة ولكن اغلب الأبحاث ترجح ان الموطن الأصلي لليانسون هو مصر.</p>\n<p class=\"align-right\">ماهي فوائد اليانسون الصحية</p>\n</blockquote>\n<h1 class=\"align-right\">فوائد اليانسون</h1>\n<p class=\"align-right\">على الرغم من استخدام بذور اليانسون بكميات صغيرة نسبيًا، إلا أنها تحتوي على كمية جيدة من العديد من العناصر العدائية الهامة فعلى وجه الخصوص، بذور اليانسون غنية بالحديد، وهو عنصر حيوي لإنتاج خلايا الدم الصحية في الجسم. كما أنه يحتوي على كمية صغيرة من المنجنيز، وهو معدن رئيسي يعمل كمضاد للأكسدة وهو ضروري لعملية التمثيل الغذائي</p>\n<p>. توفر ملعقة كبيرة (7 جرام) من بذور اليانسون تقريبًا</p>\n<p class=\"align-right\">مع العلم ان هذه الكمية هي الكمية الموصي بها في اغلب الوصفات للكبار</p>\n<p class=\"align-right\"> </p>\n<ul>\n<li class=\"align-right\">السعرات الحرارية: 23</li>\n<li class=\"align-right\">البروتين: 1 جرام</li>\n<li class=\"align-right\">الدهون: 1 جرام</li>\n<li class=\"align-right\">الكربوهيدرات: 3 جرام</li>\n<li class=\"align-right\">الألياف: 1 جرام</li>\n<li class=\"align-right\">الحديد: 13٪ من الكمية اليومية التي يحتاجها الجسم.</li>\n<li class=\"align-right\">المنغنيز: 7٪</li>\n<li class=\"align-right\">الكالسيوم: 4٪</li>\n<li class=\"align-right\">المغنيسيوم: 3٪</li>\n<li class=\"align-right\">الفوسفور: 3٪ من</li>\n<li class=\"align-right\">البوتاسيوم: 3٪ من</li>\n<li class=\"align-right\">النحاس: 3٪ من</li>\n<li class=\"align-right\"> </li>\n</ul>\n<h2 class=\"align-right\">قد يقلل اليانسون من أعراض الاكتئاب</h2>\n<p>الاكتئاب هو حالة شائعة تصيب ما يصل إلى 25٪ من النساء و12٪ من الرجال حول العالم.</p>\n<p> </p>\n<p>ومن المثير للاهتمام أن بعض الأبحاث وجدت أن بذور اليانسون قد تساعد في علاج الاكتئاب.</p>\n<p> </p>\n<p>أظهرت إحدى الدراسات أن مستخلص بذور اليانسون أظهر خصائص قوية مضادة للاكتئاب في الفئران وكان فعالًا مثل الأدوية الشائعة الموصوفة لعلاج الاكتئاب.</p>\n<p>علاوة على ذلك، في دراسة أخرى أجريت على 107 أشخاص، كان تناول 3 جرامات من مسحوق بذور اليانسون ثلاث مرات يوميًا فعالًا في تقليل أعراض اكتئاب ما بعد الولادة (6 مصدر موثوق).</p>\n<p>وبالمثل، في دراسة استمرت أربعة أسابيع على 120 شخصًا، أدى تناول كبسولة تحتوي على 200 مجم من زيت اليانسون ثلاث مرات يوميًا إلى تقليل أعراض الاكتئاب الخفيف إلى المتوسط ​​بشكل ملحوظ، مقارنة بمجموعة التحكم.</p>\n<p> </p>\n<ol class=\"align-right\" start=\"3\">\n<li>3. يمكن أن تحمي من قرحة المعدة</li>\n</ol>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">باختصار</p>\n<p class=\"align-right\">على الرغم من محدودية الأبحاث، إلا أن بذور اليانسون قللت من إفراز حمض المعدة وحمايتها من تكوين قرحة المعدة في دراسة أجريت على الحيوانات</p>\n<p class=\"align-right\">قرحة المعدة Stomach ulcers, gastric ulcers، هي قرحة مؤلمة تتشكل في بطانة المعدة، وتسبب أعراضًا مثل عسر الهضم والغثيان وحرقان في صدرك.</p>\n<p class=\"align-right\">على الرغم من أن العلاج التقليدي يتضمن عادة استخدام الأدوية لتقليل إنتاج حمض المعدة، إلا أن الأبحاث الأولية تشير إلى أن بذور اليانسون يمكن أن تساعد في منع قرحة المعدة وتقليل الأعراض.</p>\n<p class=\"align-right\">على سبيل المثال، لاحظت إحدى الدراسات التي أجريت على الحيوانات أن اليانسون يقلل من إفراز حمض المعدة، مما يساعد على منع تكوين قرحة المعدة وحماية الخلايا من التلف.</p>\n<p class=\"align-right\">ومع ذلك، لا تزال الأبحاث حول تأثيرات بذور اليانسون على قرحة المعدة محدودة للغاية.</p>\n<p class=\"align-right\">هناك حاجة لدراسات إضافية لفهم كيف يمكن أن تؤثر على تكوين القرحة والأعراض لدى البشر.</p>\n<p class=\"align-right\">.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\"> </p>\n<h3 class=\"align-right\">منع نمو الفطريات والبكتيريا</h3>\n<p class=\"align-right\">باختصار</p>\n<p class=\"align-right\">تظهر الدراسات المخبرية أن بذور اليانسون ومكوناتها قد تقلل من نمو سلالات معينة من الفطريات والبكتيريا.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">تظهر الدراسات المخبرية أن بذور اليانسون ومركباتها تمتلك خصائص قوية مضادة للميكروبات تمنع العدوى وتمنع نمو الفطريات والبكتيريا.</p>\n<p class=\"align-right\">أظهرت إحدى الدراسات المخبرية أن بذور اليانسون وزيت اليانسون كانا فعالين بشكل خاص ضد سلالات معينة من الفطريات، بما في ذلك الخمائر والفطريات الجلدية.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">Anethole الأنثول هو العنصر الفعال في بذور اليانسون الذي يمنع نمو البكتيريا.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">في إحدى الدراسات المخبرية، منع الأنثول نمو سلالة معينة من البكتيريا التي تسبب الكوليرا، وهي عدوى تتميز بالإسهال الشديد والجفاف.</p>\n<p class=\"align-right\">ومع ذلك، هناك حاجة إلى مزيد من البحث لدراسة كيفية تأثير بذور اليانسون على نمو الفطريات والبكتيريا لدى البشر.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">يمكن أن يساعد اليانسون في تخفيف أعراض سن اليأس وانقطاع الطمث</p>\n<p class=\"align-right\">باختصار</p>\n<p class=\"align-right\">قد تقلل بذور اليانسون ومركباته من الهبات الساخنة وتمنع فقدان العظام، ولكن هناك حاجة إلى مزيد من البحث.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">سن اليأس هو الانخفاض الطبيعي في الهرمونات التناسلية للمرأة أثناء الشيخوخة، مما يؤدي إلى ظهور أعراض مثل الهبات الساخنة والتعب وجفاف الجلد.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">يُعتقد أن بذور اليانسون تحاكي تأثيرات هرمون الاستروجين في الجسم، مما قد يقلل من أعراض انقطاع الطمث.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">في دراسة واحدة مدتها أربعة أسابيع، تناولت 72 امرأة مصابة بالهبات الساخنة hot flashes إما دواءً وهميًا أو كبسولة تحتوي على 330 مجم من بذور اليانسون ثلاث مرات يوميًا. أولئك اللواتي تناولن اليانسون ابدين انخفاض بنسبة 75٪ تقريبًا في شدة وتواتر الهبات الساخنة.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">قد تساعد بعض المركبات الموجودة في بذور اليانسون أيضًا في منع فقدان العظام، وهو أحد الأعراض المميزة لانقطاع الطمث الذي يحدث نتيجة لانخفاض مستويات هرمون الاستروجين في الجسم.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">وجدت إحدى الدراسات أن الزيت العطري المكون من 81٪ أنيثول، المكون الفعال في اليانسون، ساعد في منع فقدان العظام والحماية من هشاشة العظام في الفئران.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">على الرغم من هذه النتائج الواعدة، هناك حاجة إلى مزيد من البحث لتحديد كيفية تأثير بذور اليانسون نفسها على أعراض انقطاع الطمث لدى النساء.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">باختصار</p>\n<p class=\"align-right\">قد تقلل بذور اليانسون ومركباته من الهبات الساخنة وتمنع فقدان العظام، ولكن هناك حاجة إلى مزيد من البحث.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">قد يساعد على توازن مستويات السكر في الدم</p>\n<p class=\"align-right\">باختصار</p>\n<p class=\"align-right\">تشير الدراسات التي أجريت على الحيوانات إلى أن الأنثول قد يخفض نسبة السكر في الدم ويحسن وظيفة الخلايا المنتجة للأنسولين.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">تشير بعض الأبحاث إلى أن الأنثول، المكون النشط في بذور اليانسون، قد يحافظ على مستويات السكر في الدم تحت السيطرة عند إقرانها بنظام غذائي صحي.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">في دراسة استمرت 45 يومًا على الفئران المصابة بداء السكري، ساعد الأنثول في تقليل ارتفاع نسبة السكر في الدم عن طريق تغيير مستويات العديد من الإنزيمات الرئيسية. عزز الأنيثول أيضًا وظيفة خلايا البنكرياس التي تنتج الأنسولين.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">أفادت دراسة حيوانية أخرى أن الأنثول يحسن مستويات السكر في الدم لدى الفئران المصابة بداء.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">ضع في اعتبارك أن هذه الدراسات تستخدم جرعة مركزة من الأنثول - أعلى بكثير مما هو موجود في الوجبة النموذجية من بذور اليانسون.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">هناك حاجة إلى مزيد من الدراسات لتقييم كيفية تأثير بذور اليانسون على مستويات السكر في الدم لدى البشر.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">يمكن أن تقلل من الالتهابات</p>\n<p class=\"align-right\">باختصار</p>\n<p class=\"align-right\">وجدت الدراسات التي أجريت على الحيوانات أن بذور اليانسون غنية بمضادات الأكسدة ويمكن أن تقلل الالتهاب للمساعدة في الوقاية من الأمراض المزمنة.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">في كثير من الحالات، يعتبر الالتهاب استجابة طبيعية من قبل الجهاز المناعي للحماية من الإصابات والعدوى.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">ومع ذلك، ترتبط المستويات العالية من الالتهاب طويل الأمد بالحالات المزمنة، مثل أمراض القلب والسرطان والسكري.</p>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">تشير الدراسات التي أجريت على الحيوانات إلى أن بذور اليانسون قد تقلل الالتهاب لتعزيز صحة أفضل والوقاية من الأمراض.</p>\n<p class=\"align-right\"> </p>\n<ul>\n<li class=\"align-right\">على سبيل المثال، أظهرت إحدى الدراسات التي أجريت على الفئران أن زيت بذور اليانسون يقلل من الالتهابات والألم.</li>\n</ul>\n<p class=\"align-right\"> </p>\n<p class=\"align-right\">تشير أبحاث أخرى إلى أن بذور اليانسون غنية بمضادات الأكسدة، والتي يمكن أن تقلل الالتهاب وتمنع اضرار المواد المؤكسدة المسببة للأمراض.</p>",
-            "image": "https://adler2020.github.io/eee/media/posts/1/sm-lshr-Die-Demonstrativpronomen-063-jener-jene-jenes-1-17-screenshot.png",
-            "author": {
-                "name": "الخبير"
-            },
-            "tags": [
-                   "مصر"
-            ],
-            "date_published": "٢٠٢٠-٠٩-١٨T٠٤:٢١:٢٩+٠٢:٠٠",
-            "date_modified": "٢٠٢٠-٠٩-٢٤T١٢:٣٧:١٨+٠٢:٠٠"
         }
     ]
 }
