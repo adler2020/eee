@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://5herb.com/hello-world.html",
-            "url": "https://5herb.com/hello-world.html",
+            "id": "https://5herb.com/hello-world/",
+            "url": "https://5herb.com/hello-world/",
             "title": "Hello world!",
             "summary": " Welcome to WordPress. This is your first post. Edit or delete it, then start writing! [covid-widget type=\"country-chart\" country=\"Germany\" charttype=\"bar\"&nbsp;] [h5p id=\"1\"] [nutrition protein=\"45\" carbs=\"34\" fat=\"15\" calories=\"540\" coco=\"100\"] [dflip id=\"19\" ][/dflip] [3d-flip-book mode=\"fullscreen\" id=\"5\"][/3d-flip-book] ",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>[covid-widget type=\"country-chart\" country=\"Germany\" charttype=\"bar\"&nbsp;]</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p><code>[h5p id=\"1\"]</code></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p></p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>[nutrition protein=\"45\" carbs=\"34\" fat=\"15\" calories=\"540\" coco=\"100\"]</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>[dflip id=\"19\" ][/dflip] </p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p> [3d-flip-book mode=\"fullscreen\" id=\"5\"][/3d-flip-book]</p>\n<p><!-- /wp:paragraph --></p>\n",
@@ -24,8 +24,8 @@
             "date_modified": "٢٠٢١-٠٢-١٦T١٨:٢٦:٣٣+٠١:٠٠"
         },
         {
-            "id": "https://5herb.com/sample-page.html",
-            "url": "https://5herb.com/sample-page.html",
+            "id": "https://5herb.com/sample-page/",
+            "url": "https://5herb.com/sample-page/",
             "title": "Sample Page",
             "summary": " This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:quote --></p>\n<blockquote class=wp-block-quote><p>\n<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>\n</blockquote>\n<p><!-- /wp:quote --></p>\n<p><!-- wp:paragraph --></p>\n<p>...or something like this:</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:quote --></p>\n<blockquote class=wp-block-quote><p>\n<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>\n</blockquote>\n<p><!-- /wp:quote --></p>\n<p><!-- wp:paragraph --></p>\n<p>As a new WordPress user, you should go to <a href=\"http:/wordpress/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n<p><!-- /wp:paragraph --></p>\n",
@@ -38,8 +38,8 @@
             "date_modified": "٢٠٢١-٠٢-١٦T١٨:٢٦:٣٣+٠١:٠٠"
         },
         {
-            "id": "https://5herb.com/lql-2.html",
-            "url": "https://5herb.com/lql-2.html",
+            "id": "https://5herb.com/lql-2/",
+            "url": "https://5herb.com/lql-2/",
             "title": "القال 2 ",
             "author": {
                 "name": "الخبير"
@@ -50,8 +50,8 @@
             "date_modified": "٢٠٢٠-١٠-١٢T٢١:٠٧:١١+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/lthmn.html",
-            "url": "https://5herb.com/lthmn.html",
+            "id": "https://5herb.com/lthmn/",
+            "url": "https://5herb.com/lthmn/",
             "title": "الثامن",
             "image": "https://5herb.com/media/posts/8/91594b5bf971f4fc69c9f63ea6ae43356706.jpg",
             "author": {
@@ -63,8 +63,8 @@
             "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٦:٢٨+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/ltsaa.html",
-            "url": "https://5herb.com/ltsaa.html",
+            "id": "https://5herb.com/ltsaa/",
+            "url": "https://5herb.com/ltsaa/",
             "title": "التاسع ",
             "image": "https://5herb.com/media/posts/7/328109f5d87eddc1e3366d3e2091b1499606.jpg",
             "author": {
@@ -76,8 +76,8 @@
             "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٦:٠٢+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/lsbaa.html",
-            "url": "https://5herb.com/lsbaa.html",
+            "id": "https://5herb.com/lsbaa/",
+            "url": "https://5herb.com/lsbaa/",
             "title": "السابع ",
             "image": "https://5herb.com/media/posts/6/90235282_143636120480143_5089293532863135744_n.jpg",
             "author": {
@@ -89,8 +89,8 @@
             "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٥:٣٦+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/lsds.html",
-            "url": "https://5herb.com/lsds.html",
+            "id": "https://5herb.com/lsds/",
+            "url": "https://5herb.com/lsds/",
             "title": "السادس",
             "image": "https://5herb.com/media/posts/5/121014482_178891470387395_5781048662249517365_n.jpg",
             "author": {
@@ -102,8 +102,8 @@
             "date_modified": "٢٠٢٠-١٠-١٢T٢٠:١٤:٥١+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/lrbaa.html",
-            "url": "https://5herb.com/lrbaa.html",
+            "id": "https://5herb.com/lrbaa/",
+            "url": "https://5herb.com/lrbaa/",
             "title": "الرابع ",
             "summary": "الرابع 4444 ",
             "content_html": "<p>الرابع </p>\n<p>4444 </p>",
@@ -119,8 +119,8 @@
             "date_modified": "٢٠٢٠-١٠-٠٨T٠٠:٤٠:٢٣+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/lthlth.html",
-            "url": "https://5herb.com/lthlth.html",
+            "id": "https://5herb.com/lthlth/",
+            "url": "https://5herb.com/lthlth/",
             "title": "الثالث ",
             "summary": " المقال الثالث هو الذي بعد الثاني&nbsp; ",
             "content_html": "\n  <p>\n    المقال الثالث هو الذي بعد الثاني&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
@@ -134,8 +134,8 @@
             "date_modified": "٢٠٢٠-١٠-٠٩T٠٠:٤١:٣١+٠٢:٠٠"
         },
         {
-            "id": "https://5herb.com/aashb-2.html",
-            "url": "https://5herb.com/aashb-2.html",
+            "id": "https://5herb.com/aashb-2/",
+            "url": "https://5herb.com/aashb-2/",
             "title": "عربي",
             "summary": " الحصان العربي الاصيل&nbsp; ",
             "content_html": "\n  <p>\n    الحصان العربي الاصيل&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
