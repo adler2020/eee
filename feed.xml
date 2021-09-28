@@ -3,12 +3,32 @@
     <title>اعشاب</title>
     <link href="https://5herb.com/feed.xml" rel="self" />
     <link href="https://5herb.com" />
-    <updated>٢٠٢١-٠٢-١٦T١٨:٢٦:٣٣+٠١:٠٠</updated>
+    <updated>٢٠٢١-٠٧-٠١T١٩:٥٠:٣٦+٠٢:٠٠</updated>
     <author>
         <name>الخبير</name>
     </author>
     <id>https://5herb.com</id>
 
+    <entry>
+        <title>عشبة </title>
+        <author>
+            <name>الخبير</name>
+        </author>
+        <link href="https://5herb.com/aashb-lryhn/"/>
+        <id>https://5herb.com/aashb-lryhn/</id>
+
+        <updated>٢٠٢١-٠٧-٠١T١٩:٥٠:٣٦+٠٢:٠٠</updated>
+            <summary>
+                <![CDATA[
+                    dsfs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dsfs</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello world!</title>
         <author>
@@ -194,36 +214,6 @@
                 
   <p>
     المقال الثالث هو الذي بعد الثاني&nbsp;
-  </p>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>عربي</title>
-        <author>
-            <name>الخبير</name>
-        </author>
-        <link href="https://5herb.com/aashb-2/"/>
-        <id>https://5herb.com/aashb-2/</id>
-            <category term="مصر"/>
-
-        <updated>٢٠٢٠-٠٩-٢٥T٠٠:٣٩:٢٦+٠٢:٠٠</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://5herb.com/media/posts/2/117065341_2570569953196107_3033400045894227132_o.jpg" alt="" />
-                     الحصان العربي الاصيل&nbsp; 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://5herb.com/media/posts/2/117065341_2570569953196107_3033400045894227132_o.jpg" alt="" />
-                
-  <p>
-    الحصان العربي الاصيل&nbsp;
   </p>
 
   <p>
